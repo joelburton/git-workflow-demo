@@ -1,1 +1,2 @@
-goodbye
+if (x) goodbye
+else hello
